@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\bin\Debug\netcoreapp3.1\Lesson tasks.exe
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\bin\Debug\netcoreapp3.1\Lesson tasks.deps.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\bin\Debug\netcoreapp3.1\Lesson tasks.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\bin\Debug\netcoreapp3.1\Lesson tasks.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\bin\Debug\netcoreapp3.1\Lesson tasks.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\bin\Debug\netcoreapp3.1\Lesson tasks.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Lesson example\Lesson tasks\Lesson tasks\obj\Debug\netcoreapp3.1\Lesson tasks.genruntimeconfig.cache

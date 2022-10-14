@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Array-Object-Class Homework\Homework 14.10.2022\Task1\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
